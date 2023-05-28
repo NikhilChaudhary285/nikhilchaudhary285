@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
-<h3 align="center">Frontend or Backend developer from India.</h3>
+<h3 align="center">Frontend or Backend web developer from India.</h3>
 <img align="right" width=450 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilchaudhary285&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilchaudhary285" /> </p>
