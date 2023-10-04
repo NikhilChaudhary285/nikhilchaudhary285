@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilchaudhary285&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilchaudhary285" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Unity Engine**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Game Development**
 
 - 📫 How to reach me **nikhilchaudhary285@gmail.com**
 
