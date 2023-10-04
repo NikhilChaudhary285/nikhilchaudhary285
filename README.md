@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
 <h3 align="center">Passionate about learning and developing games.</h3>
 
-<p align="right"> <img src="https://camo.githubusercontent.com/16a57178a31eaeed8e7dc3c2d6989570566ff5791031d5c824559f8153114ba3/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763513078774476757555482d6b7a6a2d48755a6b724e474b38533065525059706f394d486726757371703d434155" /> </p>
+<img align="right" width=450 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
 
 - 🌱 I’m currently learning **Unity Engine**
 
