@@ -3,7 +3,7 @@
 
 <img align="right" width=450 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
 
-- 🌱 I’m currently learning **Unity Engine**
+- 🌱 I’m an epxerienced **Unity Developer** around 2 Year.
 
 - 💬 Ask me about **Game Development**
 
