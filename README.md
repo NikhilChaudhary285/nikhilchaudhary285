@@ -33,7 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" alt="unreal engine" width="40" height="40"/>
+    <img src="https://www.photonengine.com/content/img/og/og_pun-1x.jpg" alt="unreal engine" width="40" height="40"/>
   </a>
 
   <!-- Multiplayer / Backend -->
