@@ -38,7 +38,7 @@
 
   <!-- Multiplayer / Backend -->
   <a href="https://www.photonengine.com/en-US/PUN" target="_blank" rel="noreferrer">
-    <img src="https://www.photonengine.com/Photon/icons/logo.svg" alt="photon" width="40" height="40"/>
+    <img src="https://www.photonengine.com/v2/img/common/nav-logo-photon.svg" alt="photon" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
