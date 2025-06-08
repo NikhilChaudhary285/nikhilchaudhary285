@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
-<h3 align="center">Passionate about learning and developing games.</h3>
+<h3 align="center">Passionate about learning and mastering game skills.</h3>
 
 <img align="right" width=450 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
 
