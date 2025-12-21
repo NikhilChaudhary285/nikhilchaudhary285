@@ -39,9 +39,7 @@ I focus heavily on **maintainability, scalability, and real-world production sta
 ## 🛠️ Tech Stack
 
 **Game Engine:** Unity (2D/3D), Unreal Engine (Beginner – Blueprints, UI, Authentication)
-
 **Programming:** C#, C++, C, JavaScript 
-
 **Platforms:** Android, iOS, WebGL  
 **Multiplayer:** Photon (PUN), Socket.IO  
 **Backend & Services:** Firebase, Node.js, MongoDB  
