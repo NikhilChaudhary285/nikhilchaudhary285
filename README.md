@@ -30,7 +30,7 @@ I focus heavily on **maintainability, scalability, and real-world production sta
 - 🎯 Worked on **live production games (5M+ downloads)**
 - 🌍 Experience with **global audience & localization-ready UI**
 - 🔗 Built **real-time multiplayer systems** (Photon, Socket-based)
-- ⚙️ Performance optimization for **mobile & WebGL**
+- ⚙️ Performance optimization for **mobile, Windows & WebGL**
 - 🧩 Clean architecture using **State Machines, ScriptableObjects, Events**
 - 🤝 Team collaboration using **Git-based workflows**
 - 🐞 Comfortable debugging **production & live issues**
@@ -41,7 +41,7 @@ I focus heavily on **maintainability, scalability, and real-world production sta
 
 **Game Engine:** Unity (2D/3D), Unreal Engine (Beginner – Blueprints, UI, Authentication)  
 **Programming:** C#, C++, C, JavaScript  
-**Platforms:** Android, iOS, WebGL, Windows
+**Platforms:** Android, iOS, WebGL, Windows  
 **Multiplayer:** Photon (PUN), Socket.IO  
 **Backend & Services:** Firebase, Node.js, MongoDB  
 **Architecture & Systems:**
