@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
 <h3 align="center">
 Multiplayer Unity Game Developer | 2+ Years Experience <br/>
-Android • iOS • WebGL • Real-Time Multiplayer
+Android • iOS • WebGL • Windows • Real-Time Multiplayer
 </h3>
 
 <img align="right" width="420" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
@@ -16,7 +16,8 @@ I transitioned into a full Unity Game Developer role at **Deftsoft**, where I co
 I enjoy building **clean, modular, and performance-optimized systems**, especially for:
 
 - 🎮 Multiplayer & Online Games  
-- 📱 Mobile (Android & iOS)  
+- 📱 Mobile (Android & iOS)
+- 💻 Windows   
 - 🌐 WebGL platforms  
 - 🧠 System-driven gameplay architecture  
 
@@ -40,7 +41,7 @@ I focus heavily on **maintainability, scalability, and real-world production sta
 
 **Game Engine:** Unity (2D/3D), Unreal Engine (Beginner – Blueprints, UI, Authentication)  
 **Programming:** C#, C++, C, JavaScript  
-**Platforms:** Android, iOS, WebGL  
+**Platforms:** Android, iOS, WebGL, Windows
 **Multiplayer:** Photon (PUN), Socket.IO  
 **Backend & Services:** Firebase, Node.js, MongoDB  
 **Architecture & Systems:**
