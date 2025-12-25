@@ -99,8 +99,8 @@ Git • GitHub • Visual Studio • Android Logcat
 
 ---
 
-### 🃏 Multiplayer Card Game (Android – Confidential)  
-**Real-Time Online Multiplayer**
+### 🃏 Multiplayer Card Game (Android)  
+**Unity | Socket.IO | Real-Time Online Multiplayer**
 
 - Poker-style multiplayer game with matchmaking
 - Google Sign-In & Firebase authentication
@@ -122,7 +122,7 @@ Git • GitHub • Visual Studio • Android Logcat
 ---
 
 ### 🏙️ City Builder Resource Management Game  
-**WebGL & Android – Confidential**
+**Unity | Photon | WebGL & Android**
 
 - Resource & building management systems
 - Object pooling for performance optimization
@@ -132,7 +132,7 @@ Git • GitHub • Visual Studio • Android Logcat
 
 ---
 
-### 🧍 3D Character Creator Tool (Windows – Confidential)
+### 🧍 3D Character Creator Tool (Windows)
 
 - Full-featured character customization tool
 - Blendshapes, facial morphing & color gradients
