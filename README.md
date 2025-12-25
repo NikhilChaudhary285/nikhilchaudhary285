@@ -122,7 +122,7 @@ Git • GitHub • Visual Studio • Android Logcat
 ---
 
 ### 🏙️ City Builder Resource Management Game  
-**Unity | Photon | WebGL & Android**
+**Unity | WebGL & Android**
 
 - Resource & building management systems
 - Object pooling for performance optimization
