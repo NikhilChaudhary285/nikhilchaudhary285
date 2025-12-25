@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
 <h3 align="center">
-Multiplayer Unity Game Developer | 2+ Years Experience <br/>
+Multiplayer Unity Game Developer | 2+ Years Industry Experience <br/>
 Android • iOS • WebGL • Windows • Real-Time Multiplayer
 </h3>
 
@@ -10,59 +10,77 @@ Android • iOS • WebGL • Windows • Real-Time Multiplayer
 
 ## 🚀 About Me
 
-I’m a **Unity Game Developer with 2+ years of professional industry experience**, currently working on **production-level mobile and multiplayer games**.  
-I transitioned into a full Unity Game Developer role at **Deftsoft**, where I contributed to **live games with 5M+ users**, multiplayer systems, and scalable gameplay architectures.
+I’m a **Multiplayer Unity Game Developer with 2+ years of professional industry experience**, currently working on **production-level mobile and online games** used by **millions of players**.
 
-I enjoy building **clean, modular, and performance-optimized systems**, especially for:
+I work at **Deftsoft**, where I’ve contributed to **live games with 5M+ downloads**, built **scalable multiplayer systems**, optimized performance across platforms, and delivered **production-ready features** under real deadlines.
 
-- 🎮 Multiplayer & Online Games  
+I enjoy building **clean, modular, and maintainable gameplay systems** with a strong focus on:
+
+- 🎮 Multiplayer & Online Gameplay  
 - 📱 Mobile (Android & iOS)
-- 💻 Windows   
-- 🌐 WebGL platforms  
-- 🧠 System-driven gameplay architecture  
+- 💻 Windows  
+- 🌐 WebGL  
+- 🧠 System-driven game architecture  
 
-I focus heavily on **maintainability, scalability, and real-world production stability**.
+My approach prioritizes **stability, scalability, and long-term maintainability** — the kind required for real production environments.
 
 ---
 
-## 🧠 Key Highlights
+## 🧠 Key Highlights & Impact
 
-- 🎯 Worked on **live production games (5M+ downloads)**
-- 🌍 Experience with **global audience & localization-ready UI**
-- 🔗 Built **real-time multiplayer systems** (Photon, Socket-based)
-- ⚙️ Performance optimization for **mobile, Windows & WebGL**
-- 🧩 Clean architecture using **State Machines, ScriptableObjects, Events**
-- 🤝 Team collaboration using **Git-based workflows**
-- 🐞 Comfortable debugging **production & live issues**
+- 🎯 Contributed to **live production games with 5M+ users**
+- ⚡ Improved a **3D character export pipeline** from ~20 exports to **1,000+ exports in 5 minutes**  
+  → **~20× faster (~1900% performance improvement)**
+- 🏆 **1st place** in Deftsoft’s internal Unity challenge & game-dev quiz
+- 🔗 Built **real-time multiplayer systems** (Photon, Socket.IO)
+- 🌍 Delivered **localization-ready UI systems** for global audiences
+- 🧩 Strong architectural practices using **State Machines, ScriptableObjects, Events**
+- 🤝 Mentored junior developers & conducted internal technical sessions
+- 🐞 Comfortable debugging **live production & performance-critical issues**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Game Engine:** Unity (2D/3D), Unreal Engine (Beginner – Blueprints, UI, Authentication)  
-**Programming:** C#, C++, C, JavaScript  
-**Platforms:** Android, iOS, WebGL, Windows  
-**Multiplayer:** Photon (PUN), Socket.IO  
-**Backend & Services:** Firebase, Node.js, MongoDB  
-**Architecture & Systems:**
+**Game Engines**  
+Unity (2D/3D)  
+Unreal Engine (Beginner – Blueprints, UI, Authentication)
+
+**Programming Languages**  
+C#, C++, C, JavaScript
+
+**Platforms**  
+Android • iOS • WebGL • Windows
+
+**Multiplayer & Networking**  
+Photon (PUN) • Socket.IO
+
+**Backend & Services**  
+Firebase • Node.js • MongoDB
+
+**Architecture & Systems**  
 - State Machines  
 - ScriptableObjects  
 - Event-driven systems  
 - Object Pooling  
+- Modular & scalable project structures  
 
-**UI:** Unity UI, Localization, Responsive Scaling  
-**Version Control:** Git, GitHub  
+**UI / UX**  
+Unity UI • Responsive Scaling • Localization-ready layouts
+
+**Version Control & Tools**  
+Git • GitHub • Visual Studio • Android Logcat
 
 ---
 
 ## 🎯 What I Love Working On
 
-- 🎮 Mobile & Multiplayer Games  
-- 🌐 Online & Real-Time Gameplay  
+- 🎮 Multiplayer & Online Games  
+- 🌐 Real-Time Systems & Networking  
 - 🧠 Gameplay Architecture & System Design  
 - 🚀 Performance Optimization (FPS, Memory, GC)  
-- 🧱 Tilemap-based Levels & Modular Design  
-- 🎨 UI/UX for Mobile Games  
+- 🧱 Modular & Scalable Game Systems  
+- 🎨 Clean, production-ready UI/UX  
 
 ---
 
@@ -71,69 +89,66 @@ I focus heavily on **maintainability, scalability, and real-world production sta
 ### 🏃 Alnahsha Run  
 **Endless Runner | Android & iOS | 5M+ Downloads**
 
-- Gameplay improvements & production bug fixes  
-- Designed **reusable UI scaling system**
-- Made UI **fully localization-ready**
+- Contributed to a **live global production game**
+- Improved gameplay systems & production bug cycles
+- Built a **reusable UI scaling system**
+- Assisted with **localization-ready UI**
 - Optimized UI/UX for multiple screen sizes
-- Contributed to a **live game with real users**
 
-🔗 Google Play & App Store (Live)
+🔗 Live on Google Play & App Store
 
 ---
 
-### 🃏 Multiplayer Card Game (Android)  
+### 🃏 Multiplayer Card Game (Android – Confidential)  
 **Real-Time Online Multiplayer**
 
-- Room-based multiplayer gameplay  
-- Google Sign-In & Firebase integration  
-- Friend system & matchmaking  
-- Leaderboards & social invites  
-- Socket-based real-time synchronization  
-- Optimized multiplayer flow for unstable networks
-
----
-
-### 🏃‍♂️ Deft Runner  
-**3D Endless Runner | Android**
-
-- Core runner mechanics & player controls  
-- **Origin Shifting** to fix floating-point precision issues  
-- **Object Pooling** to reduce GC spikes  
-- Unity **Addressables** for memory management  
-- Structured gameplay state flow
-
----
-
-### 🏙️ City Builder Resource Management Game  
-**WebGL & Android**
-
-- Resource & building systems  
-- Persistent player progression  
-- Node.js + MongoDB backend integration  
-- Performance optimization for WebGL  
-- Modular, scalable gameplay architecture  
+- Poker-style multiplayer game with matchmaking
+- Google Sign-In & Firebase authentication
+- Friend manager, leaderboards & room-based gameplay
+- Push notifications & social invites (WhatsApp-ready)
+- Network-resilient real-time synchronization
 
 ---
 
 ### 🔫 Multiplayer Tank Battle Game (In Progress)  
 **Unity | Photon | Android**
 
-- Player movement, shooting & damage systems  
-- Tile-based levels using **Unity Tilemap**
-- Player-ready & scene synchronization system  
-- ScriptableObject-driven tanks & weapons  
-- Photon room-based multiplayer architecture  
+- Player movement, shooting & damage systems
+- Tilemap-based level design (Battle City–inspired)
+- Player-ready & scene synchronization flow
+- ScriptableObject-driven tanks & weapons
+- Clean Photon room-based architecture
 
 ---
 
-## 📈 Professional Growth
+### 🏙️ City Builder Resource Management Game  
+**WebGL & Android – Confidential**
 
-**Phase 1:** Training & Foundations  
-**Phase 2:** Gameplay Systems & Optimization  
+- Resource & building management systems
+- Object pooling for performance optimization
+- Persistent player progression
+- Node.js + MongoDB backend integration
+- Modular, maintainable architecture
+
+---
+
+### 🧍 3D Character Creator Tool (Windows – Confidential)
+
+- Full-featured character customization tool
+- Blendshapes, facial morphing & color gradients
+- Custom UI tools for hair, skin & facial features
+- Major export pipeline optimization (**20× faster**)
+
+---
+
+## 📈 Professional Journey
+
+**Phase 1:** Foundations & System Design  
+**Phase 2:** Training & Architecture at Deftsoft  
 **Phase 3:**  
-✔ Production Projects  
+✔ Live Production Games  
 ✔ Multiplayer Systems  
-✔ Real-Scale Applications (5M+ Users)
+✔ Scale (5M+ Users)
 
 ---
 
@@ -152,6 +167,7 @@ I focus heavily on **maintainability, scalability, and real-world production sta
 </p>
 
 📧 **Email:** nikhilchaudhary285@gmail.com  
+🌐 **Portfolio:** https://nikhilchaudhary285.github.io/
 
 ---
 
@@ -172,4 +188,4 @@ I focus heavily on **maintainability, scalability, and real-world production sta
 
 ---
 
-⭐ Feel free to explore my repositories and connect — always happy to discuss game development & multiplayer systems!
+⭐ Feel free to explore my repositories and connect — always happy to discuss **game development, multiplayer systems, architecture, and production engineering**.
