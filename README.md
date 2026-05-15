@@ -1,191 +1,353 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
+
 <h3 align="center">
-Multiplayer Unity Game Developer | 2+ Years Industry Experience <br/>
-Android • iOS • WebGL • Windows • Real-Time Multiplayer
+🎮 Multiplayer Unity Game Developer | 2+ Years Industry Experience <br/>
+Android • iOS • WebGL • Windows • Casual • Hyper-Casual • Real-Time Multiplayer
 </h3>
 
 <img align="right" width="420" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I’m a **Multiplayer Unity Game Developer with 2+ years of professional industry experience**, currently working on **production-level mobile and online games** used by **millions of players**.
+I am a **Multiplayer Unity Game Developer** with **2+ years of professional industry experience** building:
 
-I work at **Deftsoft**, where I’ve contributed to **live games with 5M+ downloads**, built **scalable multiplayer systems**, optimized performance across platforms, and delivered **production-ready features** under real deadlines.
+- 🎮 Casual Games  
+- ⚡ Hyper-Casual Games  
+- 🌐 Real-Time Multiplayer Games  
+- 📱 Mobile Games  
+- 💻 Cross-Platform Experiences  
 
-I enjoy building **clean, modular, and maintainable gameplay systems** with a strong focus on:
+using **Unity** and **C#**.
 
-- 🎮 Multiplayer & Online Gameplay  
-- 📱 Mobile (Android & iOS)
+I currently work at **Deftsoft**, where I contribute to **production-level games used by millions of players worldwide**.
+
+I have worked across:
+
+- 📱 Android  
+- 🍎 iOS  
 - 💻 Windows  
 - 🌐 WebGL  
-- 🧠 System-driven game architecture  
 
-My approach prioritizes **stability, scalability, and long-term maintainability** — the kind required for real production environments.
+and specialize in:
+
+- ⚡ Multiplayer Architecture
+- 🧠 Gameplay Systems
+- 🏗️ Clean & Scalable Architecture
+- 🚀 Performance Optimization
+- 🌐 Backend Integration
+- 🎨 Production-Ready UI/UX
+- 📱 Mobile Gameplay Optimization
+- 🎯 Hyper-Casual & Casual Game Development
+
+My development approach prioritizes:
+
+- ✅ Maintainability
+- ✅ Scalability
+- ✅ Long-Term Stability
+- ✅ Clean Architecture
+- ✅ Performance-Oriented Development
 
 ---
 
-## 🧠 Key Highlights & Impact
+# 👨‍💻 Professional Experience
+
+Currently working as a **Unity Game Developer at Deftsoft**, contributing to:
+
+- 🎮 Live Production Games
+- 🌐 Multiplayer Systems
+- 📱 Mobile Gameplay Systems
+- 🧩 Modular Architectures
+- 🎨 Responsive & Localization-Ready UI
+- ⚡ Optimization & Performance Systems
+- 🔧 Production Stability & Bug Fixing
+
+I have experience working on **live games with 5M+ downloads**, where maintaining performance, scalability, and production stability is critical.
+
+---
+
+# 🧠 Key Highlights & Impact
 
 - 🎯 Contributed to **live production games with 5M+ users**
-- ⚡ Improved a **3D character export pipeline** from ~20 exports to **1,000+ exports in 5 minutes**  
-  → **~20× faster (~1900% performance improvement)**
-- 🏆 **1st place** in Deftsoft’s internal Unity challenge & game-dev quiz
-- 🔗 Built **real-time multiplayer systems** (Photon, Socket.IO)
-- 🌍 Delivered **localization-ready UI systems** for global audiences
-- 🧩 Strong architectural practices using **State Machines, ScriptableObjects, Events**
-- 🤝 Mentored junior developers & conducted internal technical sessions
-- 🐞 Comfortable debugging **live production & performance-critical issues**
+- 🎮 Experience developing **Hyper-Casual, Casual & Multiplayer Mobile Games**
+- ⚡ Built scalable and lightweight gameplay systems optimized for mobile devices
+- 🌐 Developed real-time multiplayer systems using:
+  - Photon PUN2
+  - Photon Fusion
+  - Socket.IO
+  - Colyseus
+- 🔥 Integrated backend systems using:
+  - Firebase
+  - Node.js
+  - MongoDB
+- 🎨 Built responsive and localization-ready UI systems
+- 🚀 Optimized gameplay performance for:
+  - Mobile
+  - WebGL
+  - Windows
+- ⚡ Improved a **3D character export pipeline** from ~20 exports to **1,000+ exports in 5 minutes**
+  - 📈 ~20× faster workflow
+  - 🚀 ~1900% performance improvement
+- 🏆 Achieved **1st Place** in Deftsoft’s internal Unity challenge & game-dev quiz
+- 🧩 Designed scalable architectures using:
+  - State Machines
+  - ScriptableObjects
+  - Event-Driven Systems
+  - Object Pooling
+- 🔄 Experienced with Git-based collaborative workflows
+- 🤝 Mentored junior developers & conducted technical discussions
+- 🐞 Debugged and maintained live production systems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-**Game Engines**  
-Unity (2D/3D)  
-Unreal Engine (Beginner – Blueprints, UI, Authentication)
+## 🎮 Game Engines
+- Unity (2D & 3D)
+- Unreal Engine (Beginner)
 
-**Programming Languages**  
-C#, C++, C, JavaScript
+## 💻 Programming Languages
+- C#
+- C++
+- C
+- JavaScript
 
-**Platforms**  
-Android • iOS • WebGL • Windows
+## 🌐 Multiplayer & Networking
+- Photon PUN2
+- Photon Fusion
+- Socket.IO
+- Colyseus
 
-**Multiplayer & Networking**  
-Photon (PUN) • Socket.IO
+## 🔥 Backend & Services
+- Firebase
+- Node.js
+- MongoDB
 
-**Backend & Services**  
-Firebase • Node.js • MongoDB
+## 🧱 Architecture & Systems
+- SOLID Principles
+- State Machines
+- ScriptableObjects
+- Event-Driven Architecture
+- Object Pooling
+- Modular & Scalable Project Structures
 
-**Architecture & Systems**  
-- State Machines  
-- ScriptableObjects  
-- Event-driven systems  
-- Object Pooling  
-- Modular & scalable project structures  
+## 📱 Platforms
+- Android
+- iOS
+- Windows
+- WebGL
 
-**UI / UX**  
-Unity UI • Responsive Scaling • Localization-ready layouts
+## 🎨 UI / UX
+- Unity UI
+- Responsive UI Scaling
+- Localization-Ready Layouts
+- Mobile UI/UX Systems
 
-**Version Control & Tools**  
-Git • GitHub • Visual Studio • Android Logcat
-
----
-
-## 🎯 What I Love Working On
-
-- 🎮 Multiplayer & Online Games  
-- 🌐 Real-Time Systems & Networking  
-- 🧠 Gameplay Architecture & System Design  
-- 🚀 Performance Optimization (FPS, Memory, GC)  
-- 🧱 Modular & Scalable Game Systems  
-- 🎨 Clean, production-ready UI/UX  
-
----
-
-## 📌 Featured Projects
-
-### 🏃 Alnahsha Run  
-**Endless Runner | Android & iOS | 5M+ Downloads**
-
-- Contributed to a **live global production game**
-- Improved gameplay systems & production bug cycles
-- Built a **reusable UI scaling system**
-- Assisted with **localization-ready UI**
-- Optimized UI/UX for multiple screen sizes
-
-🔗 Live on Google Play & App Store
+## 🧰 Tools & Collaboration
+- Git
+- GitHub
+- Visual Studio
+- Android Logcat
 
 ---
 
-### 🃏 Multiplayer Card Game (Android)  
-**Unity | Socket.IO | Real-Time Online Multiplayer**
+# ❤️ Areas of Interest
 
-- Poker-style multiplayer game with matchmaking
-- Google Sign-In & Firebase authentication
-- Friend manager, leaderboards & room-based gameplay
-- Push notifications & social invites (WhatsApp-ready)
-- Network-resilient real-time synchronization
-
----
-
-### 🔫 Multiplayer Tank Battle Game (In Progress)  
-**Unity | Photon | Android**
-
-- Player movement, shooting & damage systems
-- Tilemap-based level design (Battle City–inspired)
-- Player-ready & scene synchronization flow
-- ScriptableObject-driven tanks & weapons
-- Clean Photon room-based architecture
+- 🎮 Mobile Game Development
+- 🌐 Multiplayer & Real-Time Networking
+- ⚡ Gameplay Systems & Architecture
+- 📈 Performance Optimization (FPS, Memory, GC)
+- 🗺️ Tilemap-Based Level Design
+- 🎨 Mobile UI/UX Systems
+- 🎯 Hyper-Casual & Casual Games
+- 📱 Mobile Gameplay Systems & Optimization
+- 💰 Monetization-Ready Gameplay Architecture
+- 🧠 Clean & Scalable Game Architecture
+- 🚀 Cross-Platform Game Development
 
 ---
 
-### 🏙️ City Builder Resource Management Game  
-**Unity | WebGL & Android**
+# 🌟 Featured Projects
 
-- Resource & building management systems
-- Object pooling for performance optimization
-- Persistent player progression
-- Node.js + MongoDB backend integration
-- Modular, maintainable architecture
+## 🏃 Alnahsha Run
+### Endless Runner | Android & iOS | 5M+ Downloads
 
----
+### 🔹 Contributions
+- Gameplay improvements
+- Production bug fixing
+- Localization-ready UI system
+- Responsive UI scaling
+- Live production support
 
-### 🧍 3D Character Creator Tool (Windows)
-
-- Full-featured character customization tool
-- Blendshapes, facial morphing & color gradients
-- Custom UI tools for hair, skin & facial features
-- Major export pipeline optimization (**20× faster**)
+🎥 Demo Video:  
+https://drive.google.com/file/d/1nCoM8EgQByPL0qwkNE9VH8T2wXpjZ-mY/view?usp=sharing
 
 ---
 
-## 📈 Professional Journey
+## 🃏 Multiplayer Card Game
+### Unity | Socket.IO | Real-Time Multiplayer
 
-**Phase 1:** Foundations & System Design  
-**Phase 2:** Training & Architecture at Deftsoft  
-**Phase 3:**  
-✔ Live Production Games  
-✔ Multiplayer Systems  
-✔ Scale (5M+ Users)
+### 🔹 Features
+- Room-based multiplayer gameplay
+- Firebase Authentication
+- Friend systems
+- Matchmaking
+- Leaderboards
+- WhatsApp social invites
+- Push notifications
+- Network-resilient synchronization
 
----
+### 🔹 Tech Used
+- Socket.IO
+- Firebase
+- Node.js
 
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/nikhilchaudhary285" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://fb.com/nikhilchaudhary285" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/nikhilchaudhary285" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</p>
-
-📧 **Email:** nikhilchaudhary285@gmail.com  
-🌐 **Portfolio:** https://nikhilchaudhary285.github.io/
+🎥 Demo Video:  
+https://drive.google.com/file/d/1qN2d6zHONrlRwKGGro0xoBqKicwFMzhH/view?usp=sharing
 
 ---
 
-## 🧰 Languages & Tools
+## 🔫 Multiplayer Tank Battle Game (In Progress)
+### Unity | Photon PUN | Android
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="40"/>
-</p>
+### 🔹 Features
+- Offline & Online Modes
+- Tilemap-based level design
+- Dynamic 1–4 player support
+- RaiseEvent synchronization
+- ScriptableObject-driven systems
+- Clean room-based multiplayer architecture
+
+🎥 Demo Video:  
+https://drive.google.com/file/d/1p-b62e9rE4O7p42PqA77OJCi2lgRa590/view?usp=sharing
 
 ---
 
-⭐ Feel free to explore my repositories and connect — always happy to discuss **game development, multiplayer systems, architecture, and production engineering**.
+## 🏙️ City Builder – Resource Management Game
+### Unity | WebGL & Android
+
+### 🔹 Features
+- Resource systems
+- Building systems
+- Persistent progression
+- WebGL optimization
+- Backend integration with Node.js & MongoDB
+- Modular scalable architecture
+
+🎥 Demo Video:  
+https://drive.google.com/file/d/1OiCZiFMJrmvgT7rq6hSBsdjcRFMpFrKg/view?usp=sharing
+
+---
+
+## 🏃‍♂️ Deft Runner
+### 3D Endless Runner | Android
+
+### 🔹 Contributions
+- Core gameplay systems
+- Origin shifting
+- Object pooling
+- Addressables integration
+- State-based gameplay architecture
+
+🎥 Demo Video:  
+https://drive.google.com/file/d/1ZjhA80vc11i3IVcC1PCAXfBZackmJEiZ/view?usp=sharing
+
+---
+
+## 🧍 3D Character Creator Tool
+### Windows | Character Customization System
+
+### 🔹 Features
+- Blendshape customization
+- Facial morphing
+- Hair & skin customization
+- Color gradients
+- Advanced export pipeline optimization
+
+---
+
+# 📂 Foundation Projects
+
+| Project | Demo |
+|---|---|
+| 🎮 VR Interaction Prototype (XR) | https://drive.google.com/file/d/1HvQZrKMXPl3q5Gp1Py6YsQDbEOaQndlR/view?usp=sharing |
+| 🧩 Sudoku Game Prototype | https://drive.google.com/file/d/1syy-C9bjcwzm820rz_6plL83aGWlJivf/view?usp=sharing |
+| 🐍 Snake Game Prototype | https://drive.google.com/file/d/1yCiS07_-4VxVl1l8VBO8_YTlKFVZ_5rm/view?usp=sharing |
+| 🏃 Runner Game (Android) | https://drive.google.com/file/d/1kg0d0onaqjeXEH0_5EgZP55r8CgbN29a/view?usp=sharing |
+| 🚀 Space War (Android) | https://drive.google.com/file/d/1k66tYQfXYUDZgQfcYW42ZFQvEHl8jcW5/view?usp=sharing |
+
+---
+
+# 🧪 Prototype Projects
+
+| Project | Demo |
+|---|---|
+| 🖼️ Image Downloader System | https://drive.google.com/file/d/1MqaLM23hXKbXuAuuor-WFplhZJYfx43N/view?usp=sharing |
+| 📜 Touch Scroll Menu | https://drive.google.com/file/d/1OvCGp2qHFVf1361gJP61XTzvATsnpKOy/view?usp=sharing |
+| 🪙 Coin Change Algorithm | https://drive.google.com/file/d/1OL3WnLgpYZLYUxcHmRtyU0EL2FZ-GieR/view?usp=sharing |
+| ⚡ Orb Click Game (Fusion) | https://drive.google.com/file/d/1WVju_96nDcXoj0tC3D6uOxFx1CUuEHP0/view?usp=sharing |
+| 🧠 EchoRealm Physics Puzzle | https://drive.google.com/file/d/13KUdexL0Ib0fUkV8topen8W_HAT3_5md/view?usp=sharing |
+| 🎲 Evolx Dice Assignment | https://drive.google.com/file/d/138jGetTdDtE7mwRb7etYIdaVcpAKiFiP/view?usp=sharing |
+| 🌐 Colyseus Multiplayer Game | https://drive.google.com/file/d/1DuBpsr_5JBLUTJuovOrSIuQBQQidUlVe/view?usp=sharing |
+| 📡 Network Data Optimization | https://drive.google.com/file/d/1i2o3uwph4UPJG3K8IdRaNkPK0qha_oHZ/view?usp=sharing |
+
+---
+
+# 🌐 Portfolio & Contact
+
+## 🌍 Portfolio
+https://nikhilchaudhary285.github.io/
+
+## 💻 GitHub
+https://github.com/NikhilChaudhary285
+
+## 🔗 LinkedIn
+https://www.linkedin.com/in/nikhilchaudhary285/
+
+## 📧 Email
+nikhilchaudhary285@gmail.com
+
+---
+
+# 🛠️ Tools
+
+## 📄 PDF Merger Tool
+Merge multiple PDFs into one.
+
+https://nikhilchaudhary285.github.io/pdf-toolkit/
+
+---
+
+# 📄 Resume
+
+https://drive.google.com/file/d/1y1YhSnJ4r80AItPlwICeL0zaSHakpWK0/view?usp=sharing
+
+---
+
+# ⭐ Let's Connect
+
+Feel free to explore my repositories and connect with me.  
+I am always open to discussions about:
+
+- Unity Development
+- Multiplayer Systems
+- Game Architecture
+- Performance Optimization
+- Mobile Game Development
+- Hyper-Casual & Casual Games
+- Backend & Networking Systems
+
+---
+
+## 👨‍💻 Author
+
+**Nikhil Chaudhary**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhilChaudhary285)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilchaudhary285/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikhilchaudhary285.github.io/)
+
+> 🎮 Unity Developer | Multiplayer Systems | Mobile Games | Clean Architecture
+
+---
