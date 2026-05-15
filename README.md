@@ -21,7 +21,7 @@ I am a **Multiplayer Unity Game Developer** with **2+ years of professional indu
 
 using **Unity** and **C#**.
 
-I currently work at **Deftsoft**, where I contribute to **production-level games used by millions of players worldwide**.
+I have contributed to **production-level games used by millions of players worldwide**, including live-service mobile titles with **5M+ downloads**.
 
 I have worked across:
 
@@ -53,7 +53,7 @@ My development approach prioritizes:
 
 # 👨‍💻 Professional Experience
 
-Currently working as a **Unity Game Developer at Deftsoft**, contributing to:
+Previously worked as a **Unity Game Developer**, contributing to:
 
 - 🎮 Live Production Games
 - 🌐 Multiplayer Systems
@@ -89,7 +89,7 @@ I have experience working on **live games with 5M+ downloads**, where maintainin
 - ⚡ Improved a **3D character export pipeline** from ~20 exports to **1,000+ exports in 5 minutes**
   - 📈 ~20× faster workflow
   - 🚀 ~1900% performance improvement
-- 🏆 Achieved **1st Place** in Deftsoft’s internal Unity challenge & game-dev quiz
+- 🏆 Achieved **1st Place** in an internal Unity challenge & game-dev quiz
 - 🧩 Designed scalable architectures using:
   - State Machines
   - ScriptableObjects
