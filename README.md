@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
 
 <h3 align="center">
-🎮 Multiplayer Unity Game Developer | 2+ Years Industry Experience <br/>
+🎮 Unity Game Developer | Multiplayer & Mobile Specialist | 2+ Years Industry Experience <br/>
 Android • iOS • WebGL • Windows • Casual • Hyper-Casual • Real-Time Multiplayer
 </h3>
 
@@ -321,7 +321,7 @@ https://nikhilchaudhary285.github.io/pdf-toolkit/
 
 # 📄 Resume
 
-https://drive.google.com/file/d/1y1YhSnJ4r80AItPlwICeL0zaSHakpWK0/view?usp=sharing
+https://drive.google.com/file/d/1kqtVwpTjsFVIw5ZFF5MGju7U2eXfAdhG/view?usp=sharing
 
 ---
 
