@@ -2,7 +2,7 @@
 
 <h3 align="center">
   🎮 Unity Game Developer | Multiplayer & Mobile Specialist <br/>
-  2+ Years Industry Experience <br/>
+  2.6+ Years Industry Experience <br/>
   Android • iOS • WebGL • Windows <br/>
   Casual & Hyper-Casual Games • Real-Time Multiplayer
 </h3>
@@ -13,7 +13,7 @@
 
 # 🚀 About Me
 
-I am a **Multiplayer Unity Game Developer** with **2+ years of professional industry experience** building:
+I am a **Multiplayer Unity Game Developer** with **2.6+ years of professional industry experience** building:
 
 - 🎮 Casual Games  
 - ⚡ Hyper-Casual Games  
