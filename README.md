@@ -213,8 +213,6 @@ https://drive.google.com/file/d/1qN2d6zHONrlRwKGGro0xoBqKicwFMzhH/view?usp=shari
 
 ---
 
----
-
 ## 🛡️ Multiplayer Arena Protocol
 ### Unity 2022 LTS | Netcode for GameObjects | Windows | 2-Player Co-op
 
