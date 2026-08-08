@@ -190,7 +190,7 @@ https://drive.google.com/file/d/1nCoM8EgQByPL0qwkNE9VH8T2wXpjZ-mY/view?usp=shari
 ---
 
 ## 🃏 Multiplayer Card Game
-### Unity | Socket.IO | Real-Time Multiplayer
+### Unity | Photon PUN2 | Socket.IO | Real-Time Multiplayer
 
 ### 🔹 Features
 - Room-based multiplayer gameplay
@@ -203,6 +203,7 @@ https://drive.google.com/file/d/1nCoM8EgQByPL0qwkNE9VH8T2wXpjZ-mY/view?usp=shari
 - Network-resilient synchronization
 
 ### 🔹 Tech Used
+- Photon PUN2
 - Socket.IO
 - Firebase
 - Node.js
@@ -212,8 +213,27 @@ https://drive.google.com/file/d/1qN2d6zHONrlRwKGGro0xoBqKicwFMzhH/view?usp=shari
 
 ---
 
+---
+
+## 🛡️ Multiplayer Arena Protocol
+### Unity 2022 LTS | Netcode for GameObjects | Windows | 2-Player Co-op
+
+### 🔹 Features
+- Server-authoritative 2-player co-op survival arena
+- Modular ability system (Dash, Projectile, Heal) via a shared BaseAbility class
+- Server-only enemy AI state machine (Patrol → Chase → Attack)
+- Slot-based session reconnection — health, score, and ability cooldowns restored on rejoin
+
+🎥 Demo Video:
+https://drive.google.com/file/d/1G69NQzM6XEuHGmR2MY8vK8lOAvrgYZQ4/view?usp=sharing
+
+💻 GitHub Repository:
+https://github.com/NikhilChaudhary285/Arena-Protocol
+
+---
+
 ## 🔫 Multiplayer Tank Battle Game (In Progress)
-### Unity | Photon PUN | Android
+### Unity | Photon PUN2 → Photon Fusion 2.x (Migrating) | Android
 
 ### 🔹 Features
 - Offline & Online Modes
@@ -222,6 +242,7 @@ https://drive.google.com/file/d/1qN2d6zHONrlRwKGGro0xoBqKicwFMzhH/view?usp=shari
 - RaiseEvent synchronization
 - ScriptableObject-driven systems
 - Clean room-based multiplayer architecture
+- Currently migrating networking layer from Photon PUN2 to Photon Fusion 2.x
 
 🎥 Demo Video:  
 https://drive.google.com/file/d/1p-b62e9rE4O7p42PqA77OJCi2lgRa590/view?usp=sharing
@@ -295,7 +316,6 @@ https://drive.google.com/file/d/1ZjhA80vc11i3IVcC1PCAXfBZackmJEiZ/view?usp=shari
 | 🎲 Evolx Dice Assignment | https://drive.google.com/file/d/138jGetTdDtE7mwRb7etYIdaVcpAKiFiP/view?usp=sharing |
 | 🌐 Colyseus Multiplayer Game | https://drive.google.com/file/d/1DuBpsr_5JBLUTJuovOrSIuQBQQidUlVe/view?usp=sharing |
 | 📡 Network Data Optimization | https://drive.google.com/file/d/1i2o3uwph4UPJG3K8IdRaNkPK0qha_oHZ/view?usp=sharing |
-| 🎮 Arena Protocol – NGO Multiplayer Survival Arena | https://drive.google.com/file/d/1G69NQzM6XEuHGmR2MY8vK8lOAvrgYZQ4/view?usp=sharing |
 
 ---
 
