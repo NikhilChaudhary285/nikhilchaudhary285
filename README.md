@@ -225,9 +225,6 @@ https://drive.google.com/file/d/1qN2d6zHONrlRwKGGro0xoBqKicwFMzhH/view?usp=shari
 🎥 Demo Video:
 https://drive.google.com/file/d/1G69NQzM6XEuHGmR2MY8vK8lOAvrgYZQ4/view?usp=sharing
 
-💻 GitHub Repository:
-https://github.com/NikhilChaudhary285/Arena-Protocol
-
 ---
 
 ## 🔫 Multiplayer Tank Battle Game (In Progress)
