@@ -301,9 +301,15 @@ https://drive.google.com/file/d/1ZjhA80vc11i3IVcC1PCAXfBZackmJEiZ/view?usp=shari
 
 # 🧪 Prototype Projects
 
+## 🌐 Colyseus WebGL Multiplayer
+Technical evaluation project comparing Colyseus against Photon and Socket.IO for real-time browser multiplayer — synced movement, animation, and skin switching.
+
+🎮 Live Demo: https://colyseus-multiplayer.netlify.app/
+💻 GitHub: https://github.com/NikhilChaudhary285/Colyseus_WebGL_Multiplayer
+🎥 Demo Video: https://drive.google.com/file/d/1DuBpsr_5JBLUTJuovOrSIuQBQQidUlVe/view?usp=sharing
+
 | Project | Demo |
 |---|---|
-| 🌐 Colyseus WebGL Multiplayer | https://drive.google.com/file/d/1DuBpsr_5JBLUTJuovOrSIuQBQQidUlVe/view?usp=sharing |
 | 🖼️ Image Downloader System | https://drive.google.com/file/d/1MqaLM23hXKbXuAuuor-WFplhZJYfx43N/view?usp=sharing |
 | 📜 Touch Scroll Menu | https://drive.google.com/file/d/1OvCGp2qHFVf1361gJP61XTzvATsnpKOy/view?usp=sharing |
 | 🪙 Coin Change Algorithm | https://drive.google.com/file/d/1OL3WnLgpYZLYUxcHmRtyU0EL2FZ-GieR/view?usp=sharing |
