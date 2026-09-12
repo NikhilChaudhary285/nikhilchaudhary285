@@ -90,8 +90,8 @@ I have experience working on **live games with 5M+ downloads**, where maintainin
   - WebGL
   - Windows
 - ⚡ Improved a **3D character export pipeline** from ~20 exports to **1,000+ exports in 5 minutes**
-  - 📈 ~20× faster workflow
-  - 🚀 ~1900% performance improvement
+  - 📈 ~50× faster workflow
+  - 🚀 ~4900% performance improvement
 - 🏆 Achieved **1st Place** in an internal Unity challenge & game-dev quiz
 - 🧩 Designed scalable architectures using:
   - State Machines
